@@ -1,6 +1,6 @@
 # journocoding
 
-Data journalism knowledge sharing sessions held every Friday afternoon at 2pm. A list of further resources can be found [here](resources/md).
+Data journalism knowledge sharing sessions held every Friday afternoon at 2pm. A list of further resources can be found [here](resources.md).
 
 | Week | Date | Session | Presenter(s) | Materials
 | :---: | :---: | :--- | :--- | :---|
